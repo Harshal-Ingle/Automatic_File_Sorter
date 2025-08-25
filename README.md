@@ -37,6 +37,4 @@ It automatically sorts files (like **Text, CSV, Excel, Images, PDFs, etc.**) int
 ---
 
 ## ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/automatic-file-sorter.git
+1. https://github.com/Harshal-Ingle/Automatic_File_Sorter
